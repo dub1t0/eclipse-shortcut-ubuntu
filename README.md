@@ -8,6 +8,7 @@ https://www.eclipse.org/downloads/packages/release/2018-12/r/eclipse-ide-java-de
 nano ~/.local/share/applications/eclipse.desktop
 
 
+``
 [Desktop Entry]
 Type=Application
 Name=Eclipse
@@ -17,7 +18,7 @@ Exec=/opt/eclipse/eclipse
 Terminal=false
 Categories=Development
 StartupWMClass=Eclipse
-
+``
 
 chmod +x ~/.local/share/applications/eclipse.desktop
 
